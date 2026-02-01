@@ -6,20 +6,21 @@ Meu foco é transformar hardware em soluções inteligentes através de código 
 
 ---
 
-### 🚀 Tecnologias e Ferramentas
+### 🚀 Tecnologias (Clique para ver os projetos)
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![AVR](https://img.shields.io/badge/AVR-Atmel-blue?style=for-the-badge&logo=microchip&logoColor=white)
-![Microchip](https://img.shields.io/badge/PIC-XC8-green?style=for-the-badge&logo=microchip&logoColor=white)
+Aqui estão as ferramentas que utilizo. Clique nos botões para ver os códigos:
+
+[![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://github.com/arthur-meira-eng/Engenharia/tree/main/Programação)
+[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/arthur-meira-eng/Engenharia/tree/main/Programação)
+
+[![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://github.com/arthur-meira-eng/Engenharia/tree/main/Sistemas%20Embarcados)
+[![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)](https://github.com/arthur-meira-eng/Engenharia/tree/main/Sistemas%20Embarcados)
+[![AVR](https://img.shields.io/badge/AVR-Atmel-blue?style=for-the-badge&logo=microchip&logoColor=white)](https://github.com/arthur-meira-eng/Engenharia/tree/main/Sistemas%20Embarcados)
+[![Microchip](https://img.shields.io/badge/PIC-XC8-green?style=for-the-badge&logo=microchip&logoColor=white)](https://github.com/arthur-meira-eng/Engenharia/tree/main/Sistemas%20Embarcados)
 
 ---
 
 ### 📂 Navegação Rápida
-
-Aqui estão os meus projetos organizados por área:
 
 * 🖥️ **[Programação e Algoritmos](https://github.com/arthur-meira-eng/Engenharia/tree/main/Programação)**
     * Estudos avançados em C e C++ (Módulos Acadêmicos).
