@@ -21,11 +21,11 @@ Meu foco é transformar hardware em soluções inteligentes através de código 
 
 Aqui estão os meus projetos organizados por área:
 
-* 🖥️ **[Programação e Algoritmos](https://github.com/arthur_meira_eng/Engenharia/tree/main/Programação)**
+* 🖥️ **[Programação e Algoritmos](https://github.com/arthur-meira-eng/Engenharia/tree/main/Programação)**
     * Estudos avançados em C e C++ (Módulos Acadêmicos).
-* 🤖 **[Sistemas Embarcados](https://github.com/arthur_meira_eng/Engenharia/tree/main/Sistemas%20Embarcados)**
+* 🤖 **[Sistemas Embarcados](https://github.com/arthur-meira-eng/Engenharia/tree/main/Sistemas%20Embarcados)**
     * Firmwares para PIC, AVR e ESP32.
-* 🎓 **[Graduação UnB](https://github.com/arthur_meira_eng/Engenharia/tree/main/Graduação)**
+* 🎓 **[Graduação UnB](https://github.com/arthur-meira-eng/Engenharia/tree/main/Graduação)**
     * Projetos acadêmicos e documentação técnica desenvolvida ao longo do curso.
 
 ---
